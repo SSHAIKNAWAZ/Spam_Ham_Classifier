@@ -29,5 +29,5 @@ The project is structured as follows:
 - Required Python packages are listed in `requirements.txt`.
 
 ## Instruction To Run
-- First Flok he Repo
+- First Flok the Repo
 - Then If you Want to deploy the model you should open the `Pycharm` and open the `streamlit_app.py` in the terminal run the following Command `streamlit run streamlit_app.py`
